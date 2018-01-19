@@ -1,0 +1,20 @@
+{
+  "name": "@kevintamarus/dependency-manager",
+  "version": "1.0.0",
+  "description": "go to root folder",
+  "main": "cli.js",
+  "bin": {
+    "DEPEND": "./src/depend.js",
+    "LIST": "./src/list.js",
+    "ADD": "./src/install.js",
+    "REMOVE": "./src/remove.js",
+    "END": "./src/end.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
