@@ -6,6 +6,7 @@
 
 - go to root folder and enter commands below
 
+`npm install --save`
 `chmod +x cli.js`
 `npm install -g`
 
